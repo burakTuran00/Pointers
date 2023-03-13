@@ -20,7 +20,7 @@ int main()
     std::cout << *ptr << std::endl; // To print new value of n or pointer. (10)
     std::cout << n << std::endl;    // To print new value of n.(10)
 
-    // Pointer have to be same type its variable. Like int-int, float-flot, etc.
+    // Pointer have to be the same type with its paired variable. Like int-int, float-flot, etc.
     // A pointer should have an address. İf it doesn't have address, Then program will give error.
 
     return 0;
